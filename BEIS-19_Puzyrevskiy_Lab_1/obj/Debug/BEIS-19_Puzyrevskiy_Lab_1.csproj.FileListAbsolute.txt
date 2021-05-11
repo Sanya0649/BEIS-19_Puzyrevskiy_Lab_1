@@ -1,0 +1,10 @@
+C:\Users\Alexander\Desktop\BEIS-19_Puzyrevskiy_Lab_1\BEIS-19_Puzyrevskiy_Lab_1\bin\Debug\BEIS-19_Puzyrevskiy_Lab_1.exe.config
+C:\Users\Alexander\Desktop\BEIS-19_Puzyrevskiy_Lab_1\BEIS-19_Puzyrevskiy_Lab_1\bin\Debug\BEIS-19_Puzyrevskiy_Lab_1.exe
+C:\Users\Alexander\Desktop\BEIS-19_Puzyrevskiy_Lab_1\BEIS-19_Puzyrevskiy_Lab_1\bin\Debug\BEIS-19_Puzyrevskiy_Lab_1.pdb
+C:\Users\Alexander\Desktop\BEIS-19_Puzyrevskiy_Lab_1\BEIS-19_Puzyrevskiy_Lab_1\obj\Debug\BEIS-19_Puzyrevskiy_Lab_1.csprojAssemblyReference.cache
+C:\Users\Alexander\Desktop\BEIS-19_Puzyrevskiy_Lab_1\BEIS-19_Puzyrevskiy_Lab_1\obj\Debug\BEIS_19_Puzyrevskiy_Lab_1.LB1.resources
+C:\Users\Alexander\Desktop\BEIS-19_Puzyrevskiy_Lab_1\BEIS-19_Puzyrevskiy_Lab_1\obj\Debug\BEIS_19_Puzyrevskiy_Lab_1.Properties.Resources.resources
+C:\Users\Alexander\Desktop\BEIS-19_Puzyrevskiy_Lab_1\BEIS-19_Puzyrevskiy_Lab_1\obj\Debug\BEIS-19_Puzyrevskiy_Lab_1.csproj.GenerateResource.cache
+C:\Users\Alexander\Desktop\BEIS-19_Puzyrevskiy_Lab_1\BEIS-19_Puzyrevskiy_Lab_1\obj\Debug\BEIS-19_Puzyrevskiy_Lab_1.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\BEIS-19_Puzyrevskiy_Lab_1\BEIS-19_Puzyrevskiy_Lab_1\obj\Debug\BEIS-19_Puzyrevskiy_Lab_1.exe
+C:\Users\Alexander\Desktop\BEIS-19_Puzyrevskiy_Lab_1\BEIS-19_Puzyrevskiy_Lab_1\obj\Debug\BEIS-19_Puzyrevskiy_Lab_1.pdb
