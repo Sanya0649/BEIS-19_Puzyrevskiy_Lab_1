@@ -19,32 +19,32 @@ namespace BEIS_19_Puzyrevskiy_Lab_1
 
         private void Sum_Click(object sender, EventArgs e)
         {
-            int a = Convert.ToInt32(Read1.Text);
-            int b = Convert.ToInt32(Read2.Text);
+            double a = Convert.ToDouble(Read1.Text);
+            double b = Convert.ToDouble(Read2.Text);
             Output.Text = Convert.ToString(a + b);
             Oper.Text = "Сложение";
         }
 
         private void Sub_Click(object sender, EventArgs e)
         {
-            int a = Convert.ToInt32(Read1.Text);
-            int b = Convert.ToInt32(Read2.Text);
+            double a = Convert.ToDouble(Read1.Text);
+            double b = Convert.ToDouble(Read2.Text);
             Output.Text = Convert.ToString(a - b);
             Oper.Text = "Вычитание";
         }
 
         private void Mul_Click(object sender, EventArgs e)
         {
-            int a = Convert.ToInt32(Read1.Text);
-            int b = Convert.ToInt32(Read2.Text);
+            double a = Convert.ToDouble(Read1.Text);
+            double b = Convert.ToDouble(Read2.Text);
             Output.Text = Convert.ToString(a * b);
             Oper.Text = "Умножение";
         }
 
         private void Div_Click(object sender, EventArgs e)
         {
-            int a = Convert.ToInt32(Read1.Text);
-            int b = Convert.ToInt32(Read2.Text);
+            double a = Convert.ToDouble(Read1.Text);
+            double b = Convert.ToDouble(Read2.Text);
             Output.Text = Convert.ToString(a / b);
             Oper.Text = "Деление";
         }
